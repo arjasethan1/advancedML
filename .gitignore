@@ -11,6 +11,12 @@ __pycache__
 *.pickle
 *.meta
 *.data*
+*.pkl
+*.tsv
+*.gz
+
+##NLP##
+*starspace_embeddings
 
 # week3
 102flowers.tgz
